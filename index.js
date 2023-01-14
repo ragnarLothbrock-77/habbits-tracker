@@ -1,3 +1,3 @@
-const some = 'sncalksmcl';
+const some = 'sncalksmcl';console.log('skdjbcksdnckjnsk');
 
 
